@@ -85,10 +85,12 @@ The app simulates API calls using the following methods in `KobiPayTransactionAp
 
 ## Running App Demo
 
+[Watch the Demo Video](https://drive.google.com/file/d/1dsEKdC5o8YO7Z6SBg55a3xaB5rEb9Eh1/view?usp=sharing)
+
+> **Note**: Click the link above to view the app demo video hosted on Google Drive.
+
 ---
 
 ## Contribution
 
 Feel free to fork this repository and submit pull requests for improvements or bug fixes.
-
-
