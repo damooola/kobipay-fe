@@ -46,7 +46,6 @@ Here are the key libraries used in this project:
 - **[google_fonts](https://pub.dev/packages/google_fonts)**: For custom fonts.
 - **[fl_chart](https://pub.dev/packages/fl_chart)**: For rendering charts (e.g., pie charts).
 - **[flutter_svg](https://pub.dev/packages/flutter_svg)**: For rendering SVG assets.
-- **[json_serializable](https://pub.dev/packages/json_serializable)**: For JSON serialization and deserialization.
 
 ---
 
